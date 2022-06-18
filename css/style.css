@@ -282,7 +282,12 @@ form{
     
 }
 
+.content:hover{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 16), 0 3px 6px rgba(0, 0, 0, 23);
+    transform: translate(0px, -8px);
+    background: rgb(241, 206, 206);
 
+}
 
 .imagen-prod{
     width: 80%;
